@@ -3,7 +3,7 @@ This is our implimentation for DTI-LEKG
 ## Install and Usage
 python version: 3.11.9
 
-package require: torch pyg numpy scipy networkx pandas tqdm
+package require: torch pyg numpy scipy networkx pandas tqdm pytorch_geometric
 
 run:
 
